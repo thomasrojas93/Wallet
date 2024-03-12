@@ -96,7 +96,13 @@ function guardar(){
     document.getElementById("tablita").appendChild(btn);
 }
 
-/**menu**/
+/**index**/
+document.getElementById("btn_green").onclick = function () {
+  location.href = "#";}
+
+document.getElementById("btn_cred").onclick = function () {
+    location.href = "#";}
+
 
 
 

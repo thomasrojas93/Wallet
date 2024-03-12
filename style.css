@@ -23,6 +23,18 @@
     padding: 40px;
     padding-right: 80px;
 }
+.alke_green{
+    background-image: url(https://img.freepik.com/fotos-premium/ilustracion-bosque-fondo-colorido-estilo-plano-unico-todos-tipos-imprimibles-que-desee_784625-104.jpg?w=740);
+    color: rgb(8, 8, 6);
+    font-weight: bolder;
+}
+
+.alke_cred{
+    background-image: url(https://previews.123rf.com/images/yuliamalinovskaya/yuliamalinovskaya1709/yuliamalinovskaya170900016/85650651-interior-de-la-sala-de-estar-banner-de-vector-dise%C3%B1o-de-una-acogedora-sala-con-sof%C3%A1-soporte-de-tv.jpg);
+    color:rgb(238, 90, 64);
+    font-weight: bolder;
+}
+
 .footer{
     background-color: rgba(0, 0, 0, 0.562);
     padding: 40px;
